@@ -85,3 +85,9 @@ The dashboard includes:
 This analysis highlights that higher sales volume does not necessarily imply higher profitability, revealing opportunities to focus on high-margin categories and optimize business strategy.
 
 ---
+
+## 📌 Author
+
+* Yerson Huaman Noriega
+* Aspiring Data Analyst
+
